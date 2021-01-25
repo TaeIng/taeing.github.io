@@ -2,12 +2,12 @@
 $font-family-main: "Source Sans Pro", Helvetica, Arial, sans-serif;
 $font-family-headings: "Source Sans Pro", Helvetica, Arial, sans-serif;
 $font-family-logo: "Source Sans Pro", Helvetica, Arial, sans-serif;
-$font-size: 1em;
+$font-size: 1.15em;
 
 // Padding
-$padding-x-large: 26%;
-$padding-large: 11%;
-$padding-medium: 6%;
+$padding-x-large: 30%;
+$padding-large: 14%;
+$padding-medium: 8%;
 $padding-small: 4%;
 $padding-x-small: 3%;
 
@@ -58,8 +58,8 @@ $search-color: #999;
 // Syntax typography
 $monospace: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono,
   DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif !default;
-$font-size-code: 0.85em !default;
-$font-height-code: 1.3em !default;
+$font-size-code: 1em !default;
+$font-height-code: 1.5em !default;
 $border-radius: 4px !default;
 
 // base16 Material Theme
