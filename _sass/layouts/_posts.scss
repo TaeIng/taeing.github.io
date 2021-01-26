@@ -11,6 +11,7 @@ article {
   header {
     margin-bottom: 6%;
     text-align: center;
+    font-size: 0.9em;
   }
 
   a:hover {
@@ -42,6 +43,7 @@ footer {
 header {
   h1 {
     margin: 0;
+    font-size: 1.8em;
   }
 }
 
@@ -74,6 +76,7 @@ header {
     border-radius: 1em;
     padding: 0;
     width: 1.5em;
+    margin-top: -3px;
     height: 100%;
     margin-right: 0.5em;
   }
@@ -93,7 +96,7 @@ header {
     padding: $padding-large/2.5 $padding-large;
 
     .meta {
-      color: rgba($feature-image-text-color, .7);
+      color: rgba($feature-image-text-color, 0.7);
     }
   }
 
@@ -115,7 +118,7 @@ header {
 /*-- feature-image Responsive scrolling --*/
 .feature-image header {
   @media screen and (max-width: $break) {
-    padding: $padding-large*1.5 $padding-small;
+    padding: $padding-large * 1.5 $padding-small;
   }
 
   @media screen and (min-width: $break) {
