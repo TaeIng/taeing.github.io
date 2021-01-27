@@ -36,6 +36,10 @@
     @extend .header-txt-shadow;
   }
 
+  p {
+    margin-bottom: 20px;
+  }
+
   p:last-child {
     margin-bottom: 0;
   }
@@ -78,7 +82,6 @@
         padding: 0;
         vertical-align: middle;
       }
-
     }
 
     .post-img img {
