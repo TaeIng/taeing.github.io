@@ -45,4 +45,4 @@ excerpt_separator: <!--more-->
 스스로 코드를 생각할 시간이 부족하기 때문에 두 가지 파일을 작성하거나 무조건 코코아 챌린지를 이수하는 것을 추천.
 전체적으로는 이후 에어비앤비나 유튜브 클론강의를 고려하고 있을 만큼 만족스러웠던 강의였다.</p>
 
-또한 이 강의를 통해 배운 내용을 요약하자면 [코코아클론](https://taeing.github.io/2021_winter_study/kokoa-clone/index.html)과 지금 보고계신 이 블로그 정도로 볼 수 있겠다.
+또한 이 강의를 통해 배운 내용을 요약하자면 [코코아클론](https://te-ing.github.io/2021_winter_study/kokoa-clone/index.html)과 지금 보고계신 이 블로그 정도로 볼 수 있겠다.
