@@ -3,7 +3,7 @@ baseurl:
 url: "https://te-ing.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: 쓰는중 # site's title
+title: 쓰는중 테스트 # site's title
 description: "write-ing" # used by search engines
 avatar: assets/img/logo-image.png # Empty for no avatar in navbar
 favicon: assets/new-favicon.ico # Icon displayed in the tab
