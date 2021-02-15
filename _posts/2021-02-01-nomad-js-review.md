@@ -2,7 +2,7 @@
 layout: post
 title: 노마드코더 바닐라 JS 크롬앱 클론코딩 강의 후기
 author: 쓰는중
-tags: [SSUL]
+tags: [review]
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 노마드코더 코코아클론 강의 후기 및 학습법
 author: 쓰는중
-tags: [SSUL]
+tags: [review]
 excerpt_separator: <!--more-->
 ---
 
