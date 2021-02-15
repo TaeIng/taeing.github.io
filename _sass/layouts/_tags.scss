@@ -1,8 +1,8 @@
 .tag-list {
   width: 100%;
   font-size: 0.9em;
-  padding-bottom: $padding-x-small;
-
+  padding-top: $padding-x-small;
+  
   div.meta {
     margin-right: 0.5em;
   }
@@ -55,4 +55,20 @@
   .tag-posts .meta {
     display: none;
   }
+}
+
+.home-tag{
+padding: $padding-x-small $padding-x-large;
+@media (max-width: $xl-break) {
+  padding: $padding-x-small ($padding-large * 2);
+}
+@media (max-width: $l-break) {
+  padding: $padding-x-small $padding-large;
+}
+@media (max-width: $m-break) {
+  padding: $padding-x-small $padding-medium;
+}
+@media (max-width: $sm-break) {
+  padding: $padding-x-small $padding-small;
+}
 }
