@@ -45,13 +45,6 @@ header {
     margin: 0;
     font-size: 2em;
     margin-bottom: 3px;
-
-  @media (max-width: $m-break) {
-    font-size: 1.8em;
-  }
-  @media (max-width: $sm-break) {
-    font-size: 1.4em;
-  }
   }
 }
 
@@ -88,7 +81,6 @@ header {
     height: 100%;
     margin-right: 0.5em;
   }
-
 }
 
 /* --- Feature image --- */
