@@ -13,8 +13,9 @@ header{
 
 .main{
   display: flex;
-  width: 100%;
+  width: 100%-10px;
   justify-content: center;
+  margin: 0px 10px;
 }
 
 #source{
@@ -27,7 +28,7 @@ header{
   height: 330px;
   border: 1px black solid;
   padding: 5px;
-  margin-left: 40px;
+  margin-left: 3%;
   word-wrap: break-word;
   overflow: auto;
 }
@@ -75,15 +76,8 @@ header{
 
 .info{
   margin-top: 20px;
-  width: 100vh;
+  width: 85%;
   height: 50px;;
   text-align: center;
-}
-
-.info2{
-  width: 100vh;
-  height: 50px;;
-  text-align: center;
-  margin-top: -10px;
-  
+  margin-bottom: -10px;
 }
