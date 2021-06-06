@@ -34,7 +34,7 @@ tags: [About, Archive, TIL]
 
   -html, css -깃허브
 
-- 2021년 1월 11일 ~ (진행중)
+- 2021년 1월 11일 ~ 2021년 2월 26일
 
   [CS50 부스트코스 2기](https://www.boostcourse.org/study-cs50-2nd) -프로그래밍 기초
 
