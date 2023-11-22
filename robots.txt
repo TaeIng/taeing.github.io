@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /about.html
-Sitemap: http://te-ing.github.io/sitemap.xml

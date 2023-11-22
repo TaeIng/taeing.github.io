@@ -1,3 +1,32 @@
----
-layout: home
----
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <button
+        id="btn"
+        style="cursor: pointer; border: '1px solid purple'; border-radius: 20; padding: '10px'; margin-bottom: '20px'"
+      >
+        Where Am I? 🤔
+      </button>
+      <span>위도경도</span>
+      <span id="location">?</span>
+    </div>
+  </body>
+  <script>
+    const $btn = window.document.querySelector('#btn');
+    const $location = window.document.querySelector('#location');
+
+    $btn.addEventListener('click', () => {
+      navigator.geolocation.getCurrentPosition((position) => {
+        const latitude = position.coords.latitude;
+        const longitude = position.coords.longitude;
+        $location.innerHTML = `위도: ${latitude} 경도: ${longitude}`;
+      });
+    });
+  </script>
+</html>
